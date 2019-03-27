@@ -1,8 +1,9 @@
 # osm-parser
-![travis](https://travis-ci.org/rovaniemi/osm-graph-parser.svg?branch=master)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](http://thanhnghiacntt.com)
 
 Java program that parses OSM XML files. 
-
+# Require
+	JDK9
 ## Run
 	java -jar osmParserCheck.jar -f pathFile
 ## Example
